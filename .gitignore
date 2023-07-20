@@ -167,4 +167,3 @@ db_test.py
 db.py
 *.old
 *.backup
-*.txt
